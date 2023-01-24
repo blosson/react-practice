@@ -1,0 +1,11 @@
+.main-bg {
+  height: 300px;
+  /* background-image: url(./img/son.jpg); */
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.col-md-4 {
+  text-align: center;
+}
